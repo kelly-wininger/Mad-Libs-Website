@@ -9,7 +9,7 @@ let creature2 = prompt("Enter the name of a spooky creature");
 
 
 let story = 
-`On a cold and ${adjective1} Halloween afternoon, I decided to go trick-or-treating.
+`On a cold and ${adjective1} Halloween afternoon, Hello Kitty and her friends decided to go trick-or-treating.
  I put on my favorite costume, which was a ${adjective2} ${creature} that looked ${adjective3}.
   My friend, ${friend}, dressed up as a ${adjective4} ${creature2}.`;
 
