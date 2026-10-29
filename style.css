@@ -1,6 +1,6 @@
 *{
-    background-color: rgb(6, 255, 234);
-    color: #ffc2c2;
+    background-color: rgb(255, 194, 137);
+    color: #fc5407;
 }
 .creepster-regular {
     font-family: "Creepster", system-ui;
@@ -23,7 +23,7 @@ body {
 }
 
 header, footer {
-    background-color: #ffc2c2;
+    background-color: #fc5407;
     color: #fff;
     padding: 10px 0;
     text-align: center;
